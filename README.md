@@ -3,7 +3,7 @@ Parses VATUSA datafile periodically and loads statistics into local database for
 
 # License
 
-The Chicago ARTCC website is hereby released under the Creative Commons CC BY-NC-SA 4.0 license. Please ensure you are familiar with the license before contributing to this project. A couple of key takeaways:
+The Fort Worth ARTCC website is hereby released under the Creative Commons CC BY-NC-SA 4.0 license. Please ensure you are familiar with the license before contributing to this project. A couple of key takeaways:
 
 If you choose to share or alter this project, you MUST give credit to the contributors of this project. You may NOT use any of this project for commercial purposes. If you create a derivitive of this project, that project MUST be released under the same license. https://creativecommons.org/licenses/by-nc-sa/4.0/
 
